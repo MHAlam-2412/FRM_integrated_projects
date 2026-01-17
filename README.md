@@ -168,6 +168,9 @@ This project was built to emphasize **clarity of cash-flow mechanics**, **correc
 
 The focus is on **how money actually moves**.
 
+
+By
+  Md Hamid Alam
 ---
 
 ## Build & Run
@@ -176,6 +179,4 @@ g++ -std=c++17 main.cpp -o cmo_sim
 ./cmo_sim
 ----------
 
-By
-  Md Hamid Alam
 
